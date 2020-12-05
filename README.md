@@ -6,6 +6,10 @@ The site contains Total Cases, Total Active Cases, Total Recovered Cases, Total 
 
 ![](Images/image1.PNG)
 
+You can click on a continent to see the no.of cases in that continent and also the no.of cases in the countries of that continent.
+
 ![](Images/image2.PNG)
+
+You can click on the countries to get detail overview of the corona cases in that country.
 
 ![](Images/image3.PNG)
