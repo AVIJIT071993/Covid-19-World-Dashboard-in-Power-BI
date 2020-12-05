@@ -2,3 +2,7 @@
 A corona virus dashboard in Power BI
 
 ![](Images/image1.PNG)
+
+![](Images/image2.PNG)
+
+![](Images/image3.PNG)
